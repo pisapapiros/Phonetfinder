@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="search">Search</string>
+    <string name="audio">Audio</string>
+    <string name="explanation">Explanation</string>
+    <string name="explanation1">Audio1</string>
+    <string name="explanation2">Audio2</string>
+    <string name="explanation3">Audio3</string>
+
+</resources>
